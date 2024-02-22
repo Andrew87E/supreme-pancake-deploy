@@ -20,7 +20,7 @@
     "@saeris/apollo-server-vercel": "^1.0.1",
     "@tanstack/react-table": "^8.5.13",
     "animate.css": "^4.1.1",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "colors": "^1.4.0",
     "html2canvas": "^1.4.1",
     "jquery": "^3.6.1",
